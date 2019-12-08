@@ -9,7 +9,7 @@ int main() {
 	double r1, r2, r3, r4, w2, theta2, theta3, r4dot, w3, a3, r4dotdot, pi = 3.14159, incr;
 	int cont = 1, choice1;
 	cout << "Slider-Crank Calculator\n";
-	cout << "by Tony Scarcia 2019\n";
+	cout << "by Tony Scarcia (2019)\n";
 	cout << "Given the input angle, the output position, angular velocities and accelerations are calculated\n\n";
 	while (cont) {
 		cout << fixed;
